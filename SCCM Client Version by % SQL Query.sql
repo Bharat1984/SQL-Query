@@ -1,3 +1,4 @@
+
 Declare @CollectionID Varchar(8)
 Set @CollectionID = 'SMS00001'
 Select sys.Client_version0 as 'Client Version',
